@@ -1,2 +1,4 @@
+really awesome
+
 ntext file merge
 a bit more
